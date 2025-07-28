@@ -95,8 +95,8 @@ Machine Learning model to predict next-day weather using Random Forest.
 
 ## 📫 Let’s Connect  
 📧 Email: priyanshu.nayak.555@gmail.com  
-🔗 GitHub: [Priyanshu Nayak](https://github.com/priyanshunayak05)  
-🔗 LinkedIn: [Priyanshu Nayak](https://linkedin.com/in/priyanshu--nayak)
+🔗 GitHub: [Priyanshu Nayak GitHub](https://github.com/priyanshunayak05)  
+🔗 LinkedIn: [Priyanshu Nayak LinkedIn](https://linkedin.com/in/priyanshu--nayak)
 
 ---
 
