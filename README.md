@@ -89,7 +89,7 @@ Machine Learning model to predict next-day weather using Random Forest.
 ---
 
 ## 📄 Resume  
-[📄 View My Resume](https://priyanshu-nayak-portfolio.netlify.app/) <!-- Replace with actual link -->
+[📄 View My Resume](https://priyanshu-nayak.netlify.app/) <!-- Replace with actual link -->
 
 ---
 
