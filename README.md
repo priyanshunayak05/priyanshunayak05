@@ -66,19 +66,67 @@ GLA University, Mathura, India
 ---
 
 ## 🌟 Projects  
+## 🚀 Projects
 
-### 🔍 **RAG-based Document QA System**  
-Built a system to query and extract information from PDFs, Excel, and text files using open-source LLMs with Retrieval-Augmented Generation.  
-🚀 Tools: FastAPI, LangChain, LLMs, SQLAlchemy
+### 🔍 RAG-Based Document Query System
+Built a Retrieval-Augmented Generation (RAG) system enabling intelligent question-answering over multi-format documents including PDFs, Excel files, and DOC documents.
 
-### 🛡️ **Secure AI Chatbot with JWT Auth**  
-Developed a FastAPI-based chatbot allowing only verified users to interact with LLMs via secure login.  
-🔐 Features: JWT, RBAC, SQL database
+#### ✨ Features
+- Multi-format document ingestion and parsing
+- Semantic retrieval using embeddings
+- Optimized chunking and retrieval strategies
+- API-based architecture using FastAPI
+- Structured document processing pipeline
 
-### 🌦️ **Weather Forecast Prediction using ML**  
-Machine Learning model to predict next-day weather using Random Forest.  
-📊 Tools: Pandas, Scikit-learn, Matplotlib
+#### 🛠️ Tech Stack
+`Python` • `FastAPI` • `LangChain` • `LLMs` • `PDF/Excel/DOC Parsing`
 
+---
+
+### 🧠 AI Career Assistant — Job Hunter
+Built an AI-powered career assistant that helps users with resume parsing, personalized cover letter generation, and interview preparation workflows.
+
+#### ✨ Features
+- AI-based PDF resume parsing using Gemini 1.5
+- Tailored cover letter generation from Job Descriptions
+- Personalized interview question generation
+- Conversational profile completion assistant
+- Automatic Gemini model fallback handling
+- Public deployment on Streamlit Cloud & Render
+
+#### 🛠️ Tech Stack
+`Python` • `Streamlit` • `Google Gemini API` • `PyMuPDF` • `Pydantic`
+
+🔗 Live Demo: https://job-hunt-ai.streamlit.app/
+
+---
+
+### 🛡️ Secure AI Chatbot
+Built a secure real-time AI chatbot integrating local LLM inference with authentication and live streaming responses.
+
+#### ✨ Features
+- JWT-based authentication and authorization
+- WebSocket-based real-time AI streaming
+- Redis-powered chat history management
+- Secure user access using SQLAlchemy
+- Local LLM integration using Ollama
+
+#### 🛠️ Tech Stack
+`FastAPI` • `SQLAlchemy` • `Redis` • `WebSocket` • `Ollama`
+
+---
+
+### 🌦️ Weather Forecast Prediction using ML
+Built a Machine Learning model to predict next-day weather conditions using historical weather datasets and Random Forest.
+
+#### ✨ Features
+- Data preprocessing and feature engineering
+- Random Forest model training
+- Exploratory Data Analysis (EDA)
+- Weather prediction visualization
+
+#### 🛠️ Tech Stack
+`Python` • `Pandas` • `Scikit-learn` • `Matplotlib`
 
 ---
 
