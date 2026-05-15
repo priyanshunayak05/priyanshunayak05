@@ -25,19 +25,19 @@ GLA University, Mathura, India
 
 **Software Development Intern – Opkey, Noida**  
 📅 May 2025 – July 2025  
-- Integrated Retrieval-Augmented Generation (RAG) using open-source LLMs for querying PDFs, Excel, and text files  
-- Built a secure chatbot using FastAPI with JWT authentication and role-based access control  
-- Developed backend APIs with JSON data processing and SQLAlchemy-based database handling  
-- Collaborated in agile sprints with on-site cross-functional teams  
+- Engineered REST API integrations using Python to process workflow execution data and automate data retrieval.
+- Designed secure GET/POST API calls with authentication, handling complex JSON parsing and data extraction.
+- Deployed applications on Linux (NGINX) with CI/CD pipelines, reducing deployment effort by 75%.
+- Recognized for performance and awarded certificate in Opkey Internship Competition.
 
 ---
 
 ## 🛠 Technical Skills  
 
 ### 🖥️ Back-End Development  
-- Skilled in developing secure, scalable server-side applications using **FastAPI** and **WebSocket**  
+- Skilled in developing secure, scalable server-side applications using **FastAPI**
 - Experience with **RESTful APIs**, **JWT-based authentication**, and **role-based access control**  
-- Proficient in backend database handling using **SQLAlchemy**, **MySQL**, **Oracle LiveSQL**, and **Redis**  
+- Proficient in backend database handling using **SQLAlchemy**, **MySQL**  and **Redis**  
 - Hands-on with containerization tools like **Docker**
 
 ### 🤖 Machine Learning & AI  
@@ -45,28 +45,25 @@ GLA University, Mathura, India
 - Familiar with **LLMs** like OpenAI GPT, Meta LLaMA, Gemini, Grok  
 - Practical experience in **Prompt Engineering**, **LangChain**, and **Langfuse**  
 - Developed **RAG-based QA systems** and AI chatbots with real-world document handling  
-- Knowledge of **Computer Vision**, using **OpenCV** and **MediaPipe** for gesture tracking  
 
 ### 🌐 Front-End Development  
-- Basic understanding of **HTML5**, **CSS3**, and **JavaScript** for frontend needs  
-- Built interactive UIs and games using **Vanilla JS**  
-- Created responsive, user-friendly projects with focus on UX (e.g., 2D browser game)
+- Basic understanding of **HTML5**, **CSS3**, **JavaScript** and **React** for frontend needs   
+
 
 ### 💡 Programming Languages  
-- Proficient in: **Python**, **JavaScript**, **Java**, **SQL**, **TypeScript**, **PHP**
+- Proficient in: **Python**, **JavaScript**, **Java**, **SQL** 
 
 ### 🛢️ Databases & DevOps  
 - Hands-on with: **MySQL**, **Redis**, **Oracle LiveSQL**  
-- Tools: **Git**, **Docker**, **GitHub**, **XAMPP**, **CI/CD (basic exposure)**
+- Tools: **Git**, **Docker**, **GitHub**, **CI/CD (basic exposure)**
 
 ### ⚙️ Core CS Concepts  
-- Strong foundation in **Data Structures & Algorithms**, **Operating Systems**,  
+- Strong foundation in **Data Structures & Algorithms**, **Operating Systems(Linux)**,  
   **Database Management Systems**, **Object-Oriented Programming**, and **Agile Software Development**
 
 ---
 
 ## 🌟 Projects  
-## 🚀 Projects
 
 ### 🔍 RAG-Based Document Query System
 Built a Retrieval-Augmented Generation (RAG) system enabling intelligent question-answering over multi-format documents including PDFs, Excel files, and DOC documents.
@@ -137,7 +134,7 @@ Built a Machine Learning model to predict next-day weather conditions using hist
 ---
 
 ## 📄 Resume  
-[📄 View My Resume](https://priyanshu-nayak.netlify.app/) <!-- Replace with actual link -->
+[📄 View My Resume](https://drive.google.com/file/d/1X7ktovCaqZerVGb7g24Rqb43zczI7Eg4/view?usp=sharing) <!-- Replace with actual link -->
 
 ---
 
